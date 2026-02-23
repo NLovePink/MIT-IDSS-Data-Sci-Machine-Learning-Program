@@ -1,0 +1,6 @@
+# Massachusetts Institute of Technology Institute for Data, Systems, and Society: Data Science and Machine Learning Program
+_12-week Prestigious Program hosted by Great Learning with lectures by MIT faculty that combines Python programming with real life scenerio insprired projects and case studies._
+
+**Case Studies:** ...
+
+**Practice Projects:** ...
